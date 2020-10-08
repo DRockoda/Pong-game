@@ -4,7 +4,7 @@ This is one of the first game to be created in the world,This is a remake of the
 ## How to play
 Start your game using
 ```bash
-python script.py
+python pong.py
 ```
 
 ## Screenshot
